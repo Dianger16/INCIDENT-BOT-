@@ -1,5 +1,5 @@
 # AI-Powered Incident Response Bot
-### Stack: openrouter api + Slack + Python + CloudWatch
+### Stack: groq api + Slack + Python + CloudWatch
 
 > Project #10 from the DevOps + AI Project Sheet
 > Integrates with Project #2 (Terraform + CloudWatch)
